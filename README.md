@@ -1,6 +1,4 @@
 # github-pages-demo
-## マークダウン見出し
-```python
-  def main():
-    hoge()
-```
+main ブランチは使われない
+
+gh-pages ブランチを見よ
